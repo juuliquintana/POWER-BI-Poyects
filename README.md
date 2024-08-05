@@ -28,3 +28,13 @@ This dashboard was created as part of a project on Airbnb accommodations in Rio 
 
 
 ![Find](images/find.png)
+
+4- *Sales*
+
+This Power BI dashboard is from a company's sales data. Provides detailed visualizations of sales across different regions and allows users to explore and analyze the data effectively.
+
+[Link al dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDNlODFkOWQtNjA1My00OWQ2LWJjNWUtMmY0YThjNmJlMDY0IiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9)
+
+![image](https://github.com/user-attachments/assets/b49306e0-a02a-40a6-9660-cb9befec4758)
+
+
